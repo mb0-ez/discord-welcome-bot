@@ -52,12 +52,12 @@ node src/index.js
 ## 📁 Structure
 
 discord-welcomer-bot-template/
-│── src/
-│   └── index.js
-│── .env.example
-│── .gitignore
-│── package.json
-│── README.md
+> │── src/
+> │   └── index.js
+> │── .env.example
+> │── .gitignore
+> │── package.json
+> │── README.md
 
 ---
 
